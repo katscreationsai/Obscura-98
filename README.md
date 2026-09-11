@@ -1,2 +1,2 @@
-# Obscura-98-
+# Obscura-98
 Photo censor and editor app 
